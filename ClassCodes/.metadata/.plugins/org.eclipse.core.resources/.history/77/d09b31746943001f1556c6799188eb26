@@ -1,0 +1,5 @@
+package com.adnan.oops.inheritance;
+
+public class Car extends Vehicle {
+
+}

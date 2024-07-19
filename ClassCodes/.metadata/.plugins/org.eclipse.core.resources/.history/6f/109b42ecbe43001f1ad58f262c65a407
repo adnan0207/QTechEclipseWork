@@ -1,0 +1,8 @@
+package com.adnan.overriding;
+
+public class Child {
+
+	public void marrige() {
+		System.out.println("Marry the girl of own choice");
+	}
+}

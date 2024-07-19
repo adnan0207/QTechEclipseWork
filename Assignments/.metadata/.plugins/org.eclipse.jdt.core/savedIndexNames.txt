@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+E:\Q Tech Lab\QTechEclipse\Assignments\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3803894794.index
+1232682397.index
+1895039320.index

@@ -1,0 +1,5 @@
+package com.adnan.overriding;
+
+public class Parent {
+
+}

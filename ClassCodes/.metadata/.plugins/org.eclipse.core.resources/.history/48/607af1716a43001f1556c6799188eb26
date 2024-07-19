@@ -1,0 +1,14 @@
+package com.adnan.oops.inheritance;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Car car1 = new Car();
+		car1.noOfWheels = 4;
+		car1.milage = 12;
+		car1.color = "White";
+		
+		car1.printColor();
+	}
+}

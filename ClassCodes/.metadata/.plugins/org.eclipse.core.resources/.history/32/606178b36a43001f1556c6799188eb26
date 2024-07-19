@@ -1,0 +1,8 @@
+package com.adnan.oops.inheritance;
+
+public class Car extends Vehicle {
+
+	public void topSpeed() {
+		System.out.println("Cars can easily cross 200 km/h speed");
+	}
+}

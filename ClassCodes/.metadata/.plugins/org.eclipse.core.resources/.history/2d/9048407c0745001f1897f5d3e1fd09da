@@ -1,0 +1,10 @@
+package com.adnan.interfaceconcept;
+
+public class CalculatorImplementationTwo extends CalculatorImplementation{
+
+	public int div(int x, int y) {
+		System.out.println("This service is developed by " + CalculatorInterface.name);
+		return x / y;
+	}
+
+}

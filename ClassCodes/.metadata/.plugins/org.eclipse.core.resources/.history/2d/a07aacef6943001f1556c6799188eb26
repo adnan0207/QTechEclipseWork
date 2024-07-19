@@ -1,0 +1,11 @@
+package com.adnan.oops.inheritance;
+
+public class Vehicle {
+
+	int noOfWheels;
+	float milage;
+	String color;
+	
+	
+	
+}

@@ -62,11 +62,15 @@
 			<item value="com.adnan"/>
 		</list>
 		<list key="name">
+			<item value="FinalKeyword"/>
+			<item value="FinalKeyWord"/>
 			<item value="Abstract+Interface+Final"/>
 			<item value="OverRiddingAndOverLoading"/>
 			<item value="StringBasics"/>
 		</list>
 		<list key="artifactId">
+			<item value="18July2024"/>
+			<item value="18july2024"/>
 			<item value="17July2024"/>
 			<item value="16July2024"/>
 			<item value="15July2024"/>

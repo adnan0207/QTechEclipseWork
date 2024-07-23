@@ -62,6 +62,7 @@
 			<item value="com.adnan"/>
 		</list>
 		<list key="name">
+			<item value="ExceptionHandeling"/>
 			<item value="FinalKeyword"/>
 			<item value="FinalKeyWord"/>
 			<item value="Abstract+Interface+Final"/>
@@ -69,6 +70,8 @@
 			<item value="StringBasics"/>
 		</list>
 		<list key="artifactId">
+			<item value="22July2024"/>
+			<item value="19July2024"/>
 			<item value="18July2024"/>
 			<item value="18july2024"/>
 			<item value="17July2024"/>

@@ -2,5 +2,31 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1718062446816_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1718062446828_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1722550077921_3" label="31July2024" name="31July2024"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1722552280059_4" label="second-module" name="second-module"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1722552393929_5" label="third-module" name="third-module"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1722947823989_6" label="05Aug2024" name="05Aug2024">
+<item elementID="=banking-web-application" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1723055916852_8" label="07Aug2024" name="07Aug2024"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1723056133909_11" label="banking-web-app" name="banking-web-app">
+<item elementID="=banking-web-app" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1718062447439_2" label="Window Working Set" name="Aggregate for window 1718062447439"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1722948850651_7" label="Multiple Working Sets" name="Aggregate:05Aug2024:31July2024:">
+<workingSet IMemento.internal.id="05Aug2024"/>
+<workingSet IMemento.internal.id="31July2024"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1723055950960_10" label="Multiple Working Sets" name="Aggregate:05Aug2024:07Aug2024:">
+<workingSet IMemento.internal.id="05Aug2024"/>
+<workingSet IMemento.internal.id="07Aug2024"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1723056165630_12" label="Multiple Working Sets" name="Aggregate:05Aug2024:banking-web-app:">
+<workingSet IMemento.internal.id="05Aug2024"/>
+<workingSet IMemento.internal.id="banking-web-app"/>
+</workingSet>
+<mruList name="banking-web-app"/>
+<mruList name="07Aug2024"/>
+<mruList name="05Aug2024"/>
+<mruList name="31July2024"/>
 </workingSetManager>

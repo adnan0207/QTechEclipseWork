@@ -14,10 +14,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\OOPS\src\main\java"/>
-			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\24June2024\src\main\java"/>
-			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\15June2024\pom.xml"/>
-			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\15June2024"/>
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\third-module"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -62,6 +59,11 @@
 			<item value="com.adnan"/>
 		</list>
 		<list key="name">
+			<item value="Generics"/>
+			<item value="My App"/>
+			<item value="Third Module"/>
+			<item value="Second Module"/>
+			<item value="First Module"/>
 			<item value="ExceptionHandeling"/>
 			<item value="FinalKeyword"/>
 			<item value="FinalKeyWord"/>
@@ -70,6 +72,12 @@
 			<item value="StringBasics"/>
 		</list>
 		<list key="artifactId">
+			<item value="08Aug2024"/>
+			<item value="01Aug2024"/>
+			<item value="MyApp"/>
+			<item value="third-module"/>
+			<item value="second-module"/>
+			<item value="first-module"/>
 			<item value="23July2024"/>
 			<item value="22July2024"/>
 			<item value="19July2024"/>
@@ -89,6 +97,7 @@
 		</list>
 		<list key="version">
 			<item value="1.0.0"/>
+			<item value="1.00"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
@@ -103,5 +112,21 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\01Aug2024"/>
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\third-module"/>
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\second-module"/>
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\first-module"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

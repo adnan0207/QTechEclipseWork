@@ -12,6 +12,10 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1723056133909_11" label="banking-web-app" name="banking-web-app">
 <item elementID="=banking-web-app" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724303670169_12" label="product-management" name="product-management">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/banking-web-app/src/main/java/com/adnan/model/Customer.java" type="1"/>
+<item elementID="=product-management" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1718062447439_2" label="Window Working Set" name="Aggregate for window 1718062447439"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1722948850651_7" label="Multiple Working Sets" name="Aggregate:05Aug2024:31July2024:">
 <workingSet IMemento.internal.id="05Aug2024"/>
@@ -25,6 +29,12 @@
 <workingSet IMemento.internal.id="05Aug2024"/>
 <workingSet IMemento.internal.id="banking-web-app"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724303704704_14" label="Multiple Working Sets" name="Aggregate:banking-web-app:product-management:">
+<workingSet IMemento.internal.id="banking-web-app"/>
+<workingSet IMemento.internal.id="product-management"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724400447336_14" label="Window Working Set" name="Aggregate for window 1724400447336"/>
+<mruList name="product-management"/>
 <mruList name="banking-web-app"/>
 <mruList name="07Aug2024"/>
 <mruList name="05Aug2024"/>

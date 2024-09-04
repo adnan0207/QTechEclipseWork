@@ -59,6 +59,7 @@
 			<item value="com.adnan"/>
 		</list>
 		<list key="name">
+			<item value="Collection"/>
 			<item value="Generics"/>
 			<item value="My App"/>
 			<item value="Third Module"/>
@@ -72,6 +73,7 @@
 			<item value="StringBasics"/>
 		</list>
 		<list key="artifactId">
+			<item value="collection"/>
 			<item value="08Aug2024"/>
 			<item value="01Aug2024"/>
 			<item value="MyApp"/>

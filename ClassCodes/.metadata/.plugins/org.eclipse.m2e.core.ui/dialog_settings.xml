@@ -14,6 +14,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\06Sept2024\src\main\java\com\adnan\listexample\ListDemo.java"/>
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\Collection\src\main\java\com\adnan\listexamples\ListDemo.java"/>
 			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\third-module"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -56,38 +58,10 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.adnan"/>
 		</list>
 		<list key="name">
-			<item value="Collection"/>
-			<item value="Generics"/>
-			<item value="My App"/>
-			<item value="Third Module"/>
-			<item value="Second Module"/>
-			<item value="First Module"/>
-			<item value="ExceptionHandeling"/>
-			<item value="FinalKeyword"/>
-			<item value="FinalKeyWord"/>
-			<item value="Abstract+Interface+Final"/>
-			<item value="OverRiddingAndOverLoading"/>
-			<item value="StringBasics"/>
 		</list>
 		<list key="artifactId">
-			<item value="collection"/>
-			<item value="08Aug2024"/>
-			<item value="01Aug2024"/>
-			<item value="MyApp"/>
-			<item value="third-module"/>
-			<item value="second-module"/>
-			<item value="first-module"/>
-			<item value="23July2024"/>
-			<item value="22July2024"/>
-			<item value="19July2024"/>
-			<item value="18July2024"/>
-			<item value="18july2024"/>
-			<item value="17July2024"/>
-			<item value="16July2024"/>
-			<item value="15July2024"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -98,8 +72,6 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0.0"/>
-			<item value="1.00"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>

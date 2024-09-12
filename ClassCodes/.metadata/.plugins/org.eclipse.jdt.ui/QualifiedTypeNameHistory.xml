@@ -30,9 +30,19 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
     <fullyQualifiedTypeName name="com.adnan.collection.list.arraylist.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="java.util.RandomAccess"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="com.adnan.listexamples.ListDemo"/>
+    <fullyQualifiedTypeName name="com.adnan.polyexample.Dog"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="com.adnan.lambdaexpression.Greetings"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="com.adnan.lambdaexpression.StringLength"/>
+    <fullyQualifiedTypeName name="com.adnan.lambdaexpression.AddingNumbers"/>
+    <fullyQualifiedTypeName name="com.adnan.lambdaexpression.MyClass"/>
 </qualifiedTypeNameHistroy>

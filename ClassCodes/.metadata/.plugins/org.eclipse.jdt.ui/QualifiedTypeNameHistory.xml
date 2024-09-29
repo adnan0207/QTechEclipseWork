@@ -15,9 +15,7 @@
     <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.adnan.repository.ProductRepo"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
-    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
     <fullyQualifiedTypeName name="com.adnan.service.ProductService"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
@@ -45,4 +43,8 @@
     <fullyQualifiedTypeName name="com.adnan.lambdaexpression.StringLength"/>
     <fullyQualifiedTypeName name="com.adnan.lambdaexpression.AddingNumbers"/>
     <fullyQualifiedTypeName name="com.adnan.lambdaexpression.MyClass"/>
+    <fullyQualifiedTypeName name="com.adnan.map.MapDemo"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 </qualifiedTypeNameHistroy>

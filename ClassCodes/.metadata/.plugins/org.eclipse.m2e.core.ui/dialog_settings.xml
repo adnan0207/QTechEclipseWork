@@ -14,6 +14,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\MultiModuleDemo"/>
 			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\01Aug2024\pom.xml"/>
 			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\06Sept2024\src\main\java\com\adnan\listexample\ListDemo.java"/>
 			<item value="E:\Q Tech Lab\QTechEclipse\ClassCodes\Collection\src\main\java\com\adnan\listexamples\ListDemo.java"/>
@@ -59,10 +60,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.adnan"/>
 		</list>
 		<list key="name">
+			<item value="M1"/>
+			<item value="MMP"/>
 		</list>
 		<list key="artifactId">
+			<item value="Module-1"/>
+			<item value="MultiModuleDemo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -73,6 +79,7 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
+			<item value="1.0.0"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
